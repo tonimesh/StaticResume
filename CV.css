@@ -54,7 +54,8 @@ width:fit-content;
     flex-direction: column;
 }
 .flex p{
-    width:100%;
+    width:50%;
+    text-align:center;
 }
 }
 .Education h1,.skil h1,.work h1,.proj h1,.certi h1,.lang h1,.co h1{
