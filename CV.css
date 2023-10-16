@@ -38,7 +38,8 @@ img {
 }
 
 .flex{
-display: flex;
+    display: flex;
+    overflow: hidden;
 }
 .flex p{
 border: 1px solid #989da6;
