@@ -39,7 +39,6 @@ img {
 
 .flex{
     display: flex;
-    overflow: hidden;
 }
 .flex p{
 border: 1px solid #989da6;
@@ -53,6 +52,7 @@ width:fit-content;
 @media screen and (max-width : 600px) {
 .flex{
     flex-direction: column;
+    overflow: hidden;
 }
 .flex p{
     width:50%;
